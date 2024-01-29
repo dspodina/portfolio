@@ -1,12 +1,98 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="./client/assets/favicon.ico" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>project!</title>
 
-    <link href="./styles/index.css" rel="stylesheet" />
-  </head>
-  <body></body>
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/svg+xml" href="./client/assets/favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Portfolio</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap"
+    rel="stylesheet" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Poppins:wght@400;600&display=swap"
+    rel="stylesheet" />
+  <link href="./styles/index.css" rel="stylesheet" />
+  <script type="module" src="./index.js"></script>
+</head>
+
+<body>
+  <!-- HEADER -->
+  <header>
+    <nav class="nav-el">
+      <a href="https://github.com/dspodina" target="_blank">GitHub</a>
+      <a href="https://www.linkedin.com/in/daria-spodina/" target="_blank">LinkedIn</a>
+    </nav>
+  </header>
+
+  <!-- ABOUT SECTION -->
+  <div class="about-section">
+    <img class="logo-img" src="./public/img/portfolio-logo.svg" alt="" />
+    <div class="about-text">
+      <h2>Hello!</h2>
+      <p id="about-me"></p>
+    </div>
+  </div>
+
+  <!-- TECH STACKS -->
+  <div class="skils-section container">
+    <h2>Skills</h2>
+    <div class="tech-stacks">
+      <div class="tech-stacks-img">
+        <img src="#" alt="" />
+      </div>
+      <div class="tech-stacks-text">
+        <p>
+          a Junior Web Developer with a passion for crafting engaging websites
+          and a strong interest in UI design. I'm thrilled about the limitless
+          possibilities in the web development realm, always eager to learn
+          and contribute to innovative projects. Let's connect and explore the
+          exciting journey of creating impactful digital experiences! 💻🎨
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <!-- PROJECTS -->
+  <div class="project-section container">
+    <h2>My projects</h2>
+    <div class="project-cards">
+      <div class="project-el">
+        <a href="https://github.com/dspodina/Conjugaison-Francais" target="_blank"><img
+            src="./public/img/parapaparler.png" alt="" /></a>
+        <h3>Conjugaison francais</h3>
+      </div>
+      <div class="project-el">
+        <a href="https://github.com/dspodina/Meme-Generator" target="_blank"><img src="./public/img/meme-generator.png"
+            alt="" /></a>
+        <h3>Meme Generator</h3>
+      </div>
+      <div class="project-el">
+        <a href="https://dspodina.github.io/Blackjack/" target="_blank"><img src="./public/img/black-jack.png"
+            alt="" /></a>
+        <h3>Black Jack</h3>
+      </div>
+    </div>
+  </div>
+
+  <!-- CONTACTS
+
+  <div class="contact-form container">
+    <form>
+      <label for="name">First Name</label>
+      <input type="text" id="name" name="name" placeholder="Your name..">
+      <label for="subject">Subject</label>
+      <textarea id="subject" name="subject" placeholder="Write something.."></textarea>
+      <input type="submit" value="Submit">
+    </form>
+  </div> -->
+
+  <!-- FOOTER -->
+  <footer>
+    <p>Junior Full stack Developer - Spodina Daria © 2024</p>
+  </footer>
+</body>
+
 </html>

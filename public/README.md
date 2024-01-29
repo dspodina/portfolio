@@ -1,3 +1,0 @@
-# Public
-
-any other images, fonts, ...
