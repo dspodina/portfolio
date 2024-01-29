@@ -103,6 +103,19 @@ h2 {
 
 .tech-stacks-text {
   margin-left: 40px;
+  width: 50%;
+}
+
+.tech-stacks-img {
+  width: 100%;
+  display: flex;
+  flex-flow: row;
+  flex-wrap: wrap;
+  gap: 50px;
+}
+
+.tech-stacks-img img {
+  width: 100px;
 }
 
 /* Projects section  */
