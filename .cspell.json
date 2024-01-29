@@ -19,6 +19,7 @@
     "daria",
     "skils",
     "Conjugaison"
+    "bootcamp"
   ],
   "ignorePaths": [
     "node_modules/**",
