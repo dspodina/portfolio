@@ -1,10 +1,10 @@
-# Name of project
+# Daria portfolio
 
-> A longer description
+> Showcase project
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
+- [Daria portfolio](#daria-portfolio)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
@@ -13,7 +13,6 @@
   - [Code Examples](#code-examples)
   - [Features](#features)
   - [Status](#status)
-  - [Inspiration](#inspiration)
   - [Contact](#contact)
   - [Instructions for use](#instructions-for-use)
   - [Code Quality Checks](#code-quality-checks)
@@ -33,8 +32,8 @@
 - Node 14.16.0
 - VSC code
 - JavaScript
-- ...
-- ...
+- HTML
+- CSS
 
 ## Setup
 
@@ -63,10 +62,6 @@ To-do list:
 ## Status
 
 Project is: _in progress_
-
-## Inspiration
-
-Project by freeCodeCamp.org
 
 ## Contact
 

@@ -7,24 +7,16 @@ create your own!
 
 ## Must-Haves
 
-> these are necessary for basic usability
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] Homepage showcasing skills, projects, and contact information.
+- [ ] Project details section for visitors to explore past work.
+- [ ] Links to GitHub and LinkedIn.
 
 ## Should-Haves
 
-> these will complete the user experience, but are not necessary
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] Responsive design for optimal viewing across devices.
+- [ ] Animations.
 
 ## Could-Haves
 
-> would be really cool ... if there's time
-
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- [ ] Testimonials section featuring feedback from clients or colleagues.
+- [ ] JS elements.
