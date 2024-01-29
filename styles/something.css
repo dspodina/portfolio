@@ -114,6 +114,14 @@ h2 {
   gap: 50px;
 }
 
+.stacks-img {
+  transition: transform 0.2s;
+}
+
+.stacks-img:hover {
+  transform: scale(1.2);
+}
+
 .tech-stacks-img img {
   width: 100px;
 }
