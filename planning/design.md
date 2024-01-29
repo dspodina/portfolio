@@ -2,16 +2,8 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design
+### Color scheme
 
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
-
----
+Background:#f0f8ff; Main: #8300e0; Secondary: #83c0c1; Text-color: #403843;
 
 ## Wireframe(s)
-
-> Include your wireframe(s) and link to wireframe
-
-<!-- provide a link to your wireframe documenting on Figma, or wherever it is -->
