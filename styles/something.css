@@ -137,7 +137,7 @@ h2 {
 
 .project {
   height: 400px;
-  margin-top: 40px;
+  margin-top: 150px;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
@@ -163,7 +163,6 @@ h2 {
   width: 20%;
   height: 350px;
   margin-top: 40px;
-  padding: 30px;
   transition: opacity 1s ease-out;
 }
 
@@ -268,6 +267,8 @@ footer {
   .tech-stacks {
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: center;
     padding-bottom: 100px;
   }
 
@@ -285,7 +286,7 @@ footer {
   .project {
     display: flex;
     flex-direction: column;
-    padding: 300px 0 100px;
+    padding: 100px 0;
   }
 
   .project h2 {
