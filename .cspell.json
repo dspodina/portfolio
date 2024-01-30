@@ -19,7 +19,9 @@
     "daria",
     "skils",
     "Conjugaison",
-    "bootcamp"
+    "bootcamp",
+    "Parapa",
+    "Parler"
   ],
   "ignorePaths": [
     "node_modules/**",
