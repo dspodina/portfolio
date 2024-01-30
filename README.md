@@ -1,19 +1,15 @@
-# Daria portfolio
+# Portfolio
 
-> Showcase project
+> Project for Hack Your Future
 
 ## Table of contents
 
-- [Daria portfolio](#daria-portfolio)
+- [Portfolio](#portfolio)
   - [Table of contents](#table-of-contents)
   - [General info](#general-info)
   - [Screenshots](#screenshots)
   - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Code Examples](#code-examples)
-  - [Features](#features)
   - [Status](#status)
-  - [Contact](#contact)
   - [Instructions for use](#instructions-for-use)
   - [Code Quality Checks](#code-quality-checks)
   - [Continuous Integration (CI)](#continuous-integration-ci)
@@ -21,62 +17,28 @@
 
 ## General info
 
-> A short description
+> Portfolio website
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
+![website](./public/img/skils/portfolio-website.png)
 
 ## Technologies
 
-- Node 14.16.0
+- Node v20.11.0
 - VSC code
 - JavaScript
 - HTML
 - CSS
 
-## Setup
-
-- `npm run start`
-
-## Code Examples
-
-```js
-// the hello world program
-console.log("Hello World");
-```
-
-## Features
-
-List of features ready and Todos for future development
-
--
--
--
-
-To-do list:
-
--
--
-
 ## Status
 
-Project is: _in progress_
-
-## Contact
-
-By [Name]
+Project is: done
 
 ## Instructions for use
 
-<details>
-  <summary>Getting Started</summary>
-
-<!-- a guide to using this repository -->
-
-1. `git clone git@github.com:HackYourFutureBelgium/template-markdown.git`
-2. `cd template-markdown`
-3. `npm install`
+1. `git clone https://github.com/dspodina/portfolio`
+2. `npm install`
 
 ## Code Quality Checks
 
@@ -119,5 +81,3 @@ locally.
   - "_Require status checks to pass before merging_"
   - "_Require branches to be up to date before merging_"
   - "_Do not allow bypassing the above settings_"
-
-</details>
