@@ -14,17 +14,17 @@ window.onload = printText;
 
 // Hover effect for "Projects" section
 
-const frontSides = document.querySelectorAll(".project-card");
-const backSides = document.querySelectorAll(".project-card-back");
+// const frontSides = document.querySelectorAll(".project-card");
+// const backSides = document.querySelectorAll(".project-details");
 
-frontSides.forEach((frontSide, index) => {
-  frontSide.addEventListener("mouseover", () => {
-    backSides[index].style.display = "block";
-    frontSide.style.display = "none";
-  });
+// frontSides.forEach((frontSide, index) => {
+//   frontSide.addEventListener("mouseover", () => {
+//     backSides[index].style.display = "block";
+//     frontSide.style.display = "none";
+//   });
 
-  backSides[index].addEventListener("mouseout", () => {
-    backSides[index].style.display = "none";
-    frontSide.style.display = "block";
-  });
-});
+//   backSides[index].addEventListener("mouseout", () => {
+//     backSides[index].style.display = "none";
+//     frontSide.style.display = "block";
+//   });
+// });
