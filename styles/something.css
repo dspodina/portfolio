@@ -129,11 +129,11 @@ h2 {
   .stacks-img {
     transition: transform 0.2s;
     width: auto;
-    height: 60px;
+    height: 40px;
   }
 
   .stacks-img-2 {
-    width: 100px;
+    width: 80px;
     height: auto;
     transition: transform 0.2s;
   }
