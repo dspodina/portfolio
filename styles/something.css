@@ -104,7 +104,7 @@ h2 {
     align-items: center;
     justify-content: center;
     text-align: center;
-    margin-bottom: 150px;
+    margin-bottom: 100px;
   }
 
   .tech-stacks-img {
@@ -157,6 +157,7 @@ h2 {
     justify-content: center;
     align-items: center;
     width: 100%;
+    padding-bottom: 50px;
     transition: opacity 1s ease-out;
   }
 
@@ -168,9 +169,9 @@ h2 {
   }
 
   .project-card {
-    padding: 50px 0 10px;
     display: flex;
     flex-direction: column;
+    padding: 20px;
   }
 
   .project-title h2 {
@@ -202,7 +203,7 @@ h2 {
     text-align: center;
     align-items: center;
     margin-top: 50px;
-    padding: 100px 0 50px;
+    padding: 50px 0;
   }
 
   .about-me-bio {
