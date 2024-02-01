@@ -111,6 +111,8 @@ h2 {
     width: 100%;
     display: flex;
     flex-flow: row;
+    justify-content: center;
+    align-items: center;
     flex-wrap: wrap;
     gap: 40px;
   }
@@ -254,6 +256,11 @@ h2 {
     justify-content: space-between;
     align-items: center;
     padding: 20px 50px;
+  }
+
+  .footer-icons {
+    display: flex;
+    flex-direction: row;
   }
 }
 
